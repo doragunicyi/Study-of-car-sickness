@@ -18,7 +18,7 @@ Platform assembly: C:\Users\h23i03\Documents\Car Game(実験用)\car_Data\Manage
 Loading C:\Users\h23i03\Documents\Car Game(実験用)\car_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\h23i03\Documents\Car Game(実験用)\car_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\h23i03\Documents\Car Game(実験用)\car_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.052 seconds
+- Completed reload, in  0.073 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
@@ -27,4 +27,4 @@ Platform assembly: C:\Users\h23i03\Documents\Car Game(実験用)\car_Data\Manage
 Platform assembly: C:\Users\h23i03\Documents\Car Game(実験用)\car_Data\Managed\System.dll (this message is harmless)
 Shader 'Nature/Terrain/Specular': dependency 'BaseMapShader' shader 'Hidden/TerrainEngine/Splatmap/Specular-Base' not found
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1bf4 -> priority: 1 
+  Thread -> id: 1900 -> priority: 1 
