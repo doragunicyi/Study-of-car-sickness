@@ -6,6 +6,7 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     971 MB
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 Platform assembly: C:\Users\h23i03\Documents\Car Game(実験用)\car__Data\Managed\UnityEngine.dll (this message is harmless)
 Loading C:\Users\h23i03\Documents\Car Game(実験用)\car__Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: C:\Users\h23i03\Documents\Car Game(実験用)\car__Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
@@ -19,12 +20,242 @@ Loading C:\Users\h23i03\Documents\Car Game(実験用)\car__Data\Managed\UnityEng
 Platform assembly: C:\Users\h23i03\Documents\Car Game(実験用)\car__Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\h23i03\Documents\Car Game(実験用)\car__Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
 - Completed reload, in  0.081 seconds
+=======
+Platform assembly: C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.075 seconds
+>>>>>>> fbc3ad02eb3ada5292cd1e255f93a81bd64c792b
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initialized touch support.
+<<<<<<< HEAD
 Platform assembly: C:\Users\h23i03\Documents\Car Game(実験用)\car__Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\h23i03\Documents\Car Game(実験用)\car__Data\Managed\System.dll (this message is harmless)
 Shader 'Nature/Terrain/Standard': fallback shader 'Nature/Terrain/Diffuse' not found
 Setting up 1 worker threads for Enlighten.
   Thread -> id: ca0 -> priority: 1 
+=======
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 76 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 252 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+A script behaviour has a different serialization layout when loading. (Read 32 bytes but expected 112 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1652)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 381)
+
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+GI: material does not have Meta pass, and could not find default material. Object will not be affecting GI.
+Platform assembly: C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\h23i03\Documents\GitHub\Study-of-car-sickness\car__Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1f18 -> priority: 1 
+>>>>>>> fbc3ad02eb3ada5292cd1e255f93a81bd64c792b
